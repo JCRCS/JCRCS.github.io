@@ -1,5 +1,5 @@
 <?php
-$connect=mysqli_connect("localhost","root","","appdata");
+$connect=mysqli_connect("192.168.30.23","root","","appdata");
 
 $name=$_POST["userName"];
 $email=$_POST["userMail"];
