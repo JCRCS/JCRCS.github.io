@@ -1,0 +1,11 @@
+Changed files:
+class.admin.tours.php
+info-tours.php
+class.tour.php (add_to_cart)
+price.helper.php
+class.template.php (set_message, multiple alert messages)
+class.cart.php (title)
+st-theme-options (search tabs)
+content-search-transport
+search-form.php
+class.admin.location.relationships.php
