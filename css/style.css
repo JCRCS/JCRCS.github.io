@@ -62,7 +62,7 @@ p {
   linear-gradient(
       rgba(0, 0, 0, 0.50),
       rgba(0, 0, 0, 1.0)
-    );
+    ),url(../media/cover.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -78,7 +78,7 @@ p {
   linear-gradient(
       rgba(0, 0, 0, 0.50),
       rgba(0, 0, 0, 1.0)
-    );
+    ),url(../media/cover.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -97,8 +97,8 @@ p {
 
 .viz {
   min-height: 400px;
-  border-top: 1px #000000 solid;
-  border-bottom: 1px #000000 solid;
+  border-top: 1px #d2d2d2 solid;
+  border-bottom: 1px #d2d2d2 solid;
   margin: 20px auto 70px;
 }
 
@@ -109,8 +109,8 @@ p {
 
 .viz2 {
   
-  border-top: 1px #000000 solid;
-  border-bottom: 1px #000000 solid;
+  border-top: 1px #d2d2d2 solid;
+  border-bottom: 1px #d2d2d2 solid;
   margin: auto auto auto;
 
 }
@@ -126,8 +126,8 @@ p {
 
 .viz3 {
   
-  border-top: 1px #000000 solid;
-  border-bottom: 1px #000000 solid;
+  border-top: 1px #d2d2d2 solid;
+  border-bottom: 1px #d2d2d2 solid;
   margin: auto auto auto;
 
 }
