@@ -1,0 +1,175 @@
+/*-------------------------------*/
+/*            Typography            */
+/*-------------------------------*/
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 62px;
+  letter-spacing: -1px;
+  margin-top: 44px;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0;
+  margin-bottom: 22px;
+}
+
+h4 {
+  font-family: 'Source Code Pro', monospace;
+  font-weight: 400;
+  font-size: 14px;
+  padding-top: 44px;
+}
+
+h5 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+h6 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+
+.name {
+  text-transform: uppercase;
+}
+li,ul {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  color: "blue"
+}
+
+.intro {
+  background:
+  linear-gradient(
+      rgba(0, 0, 0, 0.50),
+      rgba(0, 0, 0, 1.0)
+    );
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  min-height: 550px;
+  background-color: #000;
+  padding-top: 85px;
+  margin-bottom: 70px;
+}
+
+.back {
+  background:
+  linear-gradient(
+      rgba(0, 0, 0, 0.50),
+      rgba(0, 0, 0, 1.0)
+    );
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  min-height: 550px;
+  background-color: #000;
+  padding-top: 85px;
+  margin-bottom: 70px;
+  color: #fdfdfd;
+}
+
+.text {
+  padding-top: 20px;
+  color: "blue"
+}
+
+.viz {
+  min-height: 400px;
+  border-top: 1px #000000 solid;
+  border-bottom: 1px #000000 solid;
+  margin: 20px auto 70px;
+}
+
+.viz img {
+  min-width: 100%;
+  max-width: 100%;
+}
+
+.viz2 {
+  
+  border-top: 1px #000000 solid;
+  border-bottom: 1px #000000 solid;
+  margin: auto auto auto;
+
+}
+
+.viz2 img {
+  min-width: 50%;
+  max-width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.viz3 {
+  
+  border-top: 1px #000000 solid;
+  border-bottom: 1px #000000 solid;
+  margin: auto auto auto;
+
+}
+
+.viz3 img {
+  min-width: 75%;
+  max-width: 75%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+
+.howTo {
+  background-color: #070707;
+  min-height: 300px;
+  padding-top: 44px;
+  padding-bottom: 88px;
+}
+
+.howTo p{
+  font-size: 16px;
+  line-height: 150%;
+  padding-bottom: 0px;
+}
+
+.howToSide p{
+  font-family: 'Source Code Pro', monospace;
+  font-size: 14px;
+  padding-bottom: 0px;
+  letter-spacing: -1px;
+  margin: 0 0 0px;
+}
+
+#tools {
+  margin-top: 44px;
+}
+
+a {
+  color: #f95658;
+}
+
+a:hover {
+  color: #c74446;
+}
