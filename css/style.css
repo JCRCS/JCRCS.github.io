@@ -4,7 +4,7 @@
 h1 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  font-size: 62px;
+  font-size: 58px;
   letter-spacing: -1px;
   margin-top: 44px;
   margin-bottom: 0;
@@ -68,7 +68,7 @@ p {
     -o-background-size: cover;
     background-size: cover;
   min-height: 550px;
-  background-color: #000;
+  background-color: rgb(0, 0, 0);
   padding-top: 85px;
   margin-bottom: 70px;
 }
@@ -133,7 +133,7 @@ p {
 }
 
 a {
-  color: #f95658;
+  color: #5671f9;
 }
 
 a:hover {
