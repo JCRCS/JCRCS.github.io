@@ -121,11 +121,10 @@ p {
 }
 
 .howToSide p{
-  font-family: 'Source Code Pro', monospace;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 600;
   font-size: 14px;
-  padding-bottom: 0px;
-  letter-spacing: -1px;
-  margin: 0 0 0px;
+  color: "blue"
 }
 
 #tools {
